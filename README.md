@@ -1,2 +1,3 @@
-# Anime-recommendation
-A anime recommendation machine learning modal for anyone who is indecissive on what anime to watch next!
+# 2023 Top 250 Anime Dataset
+getting some insights using top 250 anime dataset
+
